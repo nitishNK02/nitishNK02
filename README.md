@@ -1,5 +1,5 @@
 # 📍About Me:
-💽I'm currently leaning advance Python.<br>💁I need ideas in learning in Pytorch and Tenserflow<br>📖I'm a quick learner and love to solve problems 
+💽I'm currently leaning advance AI and Machine Learing .📖I'm a quick learner and love to solve problems 
 
 
 ## 🌐 Socials:
